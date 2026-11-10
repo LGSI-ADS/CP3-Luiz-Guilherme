@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+<title id="title">Monograma Luiz Guilherme</title>
+<desc id="desc">Iniciais LG sobre fundo azul em estilo tecnológico</desc>
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#164e63"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.28"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="600" height="600" rx="300" fill="url(#grad)"/>
+<circle cx="300" cy="300" r="252" fill="url(#glow)"/>
+<circle cx="300" cy="300" r="244" fill="none" stroke="#38bdf8" stroke-width="3" stroke-opacity=".55"/>
+<path d="M135 416V187h50v183h94v46zM452 220l-35 35c-19-18-39-26-64-26-52 0-86 38-86 91s37 89 87 89c20 0 38-6 54-16v-46h-67v-45h115v113c-26 28-62 43-104 43-83 0-140-57-140-139 0-82 58-139 141-139 43 0 75 14 99 40z" fill="#f8fafc"/>
+<path d="M115 460h370" stroke="#38bdf8" stroke-opacity=".65" stroke-width="4" stroke-linecap="round"/>
+</svg>
